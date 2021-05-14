@@ -1,6 +1,6 @@
 # eBolo Bot!
 
-Olá! Sou `Pendejo#8650` e esse é meu bot ;3
+Olá! Sou `Pendejo#8650` e esse é meu bot ;3<br/>
 Esse bot foi desenvolvido usando Javascript, a API do Discord.js e algumas dependencias que podem ser achadas no arquivo package.json.
 
 ## qqéisso
