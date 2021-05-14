@@ -3,14 +3,6 @@ const settings = require('./config.json');
 
 const client = new Discord.Client();
 
-/*
-const settings = {
-    prefix: "!n",
-    devID: "160922789321244672",
-    token: 'ODAxNjU1Mzg2NDg1ODE3Mzc0.YAj1wg.eMyceW1FXQMzyNkSDupAetLXPsg'
-}
-*/
-
 const { readdirSync } = require('fs');
 
 const { join } = require('path');
